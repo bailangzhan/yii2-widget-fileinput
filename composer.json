@@ -1,0 +1,24 @@
+{
+    "name": "bailangzhan/yii2-widget-fileinput",
+    "description": "yii2图片上传",
+    "keywords": ["yii2", "fileinput"],
+    "type": "yii2-extension",
+    "license": "",
+    "support": {
+        "issues": "https://github.com/bailangzhan/yii2-fileinput/issues",
+        "source": "https://github.com/bailangzhan/yii2-fileinput",
+        "homepage": "http://www.manks.top"
+    },
+    "authors": [
+        {
+            "name": "manks",
+            "email": "422744746@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.4"
+    },
+    "autoload": {
+        "psr-4": { "manks\\": "" }
+    }
+}
