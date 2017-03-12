@@ -9,7 +9,7 @@ yii2-widget-fileinput
 推荐使用composer进行安装
 
 ```
-$ php composer.phar require bailangzhan/yii2-widget-input "@dev"
+$ php composer.phar require bailangzhan/yii2-widget-fileinput "@dev"
 ```
 
 或者添加
