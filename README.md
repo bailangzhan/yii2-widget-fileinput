@@ -15,7 +15,7 @@ $ php composer.phar require bailangzhan/yii2-widget-fileinput "@dev"
 或者添加
 
 ```
-"bailangzhan/yii2-fileinput": "@dev"
+"bailangzhan/yii2-widget-fileinput": "@dev"
 ```
 
 到你的`composer.json`文件的`require`中
