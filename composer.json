@@ -19,6 +19,6 @@
         "yiisoft/yii2": ">=2.0.4"
     },
     "autoload": {
-        "psr-4": { "manks\\": "" }
+        "psr-4": { "bailangzhan\\": "" }
     }
 }
