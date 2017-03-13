@@ -31,7 +31,7 @@ $ php composer.phar require bailangzhan/yii2-widget-fileinput "@dev"
 ]) ?>
 ```
 
-控制器
+## 控制器
 控制器的代码需要自行实现，只需要在save之前为图片字段赋值即可，如
 ```php
 ($file = Upload::up($model, 'imageColumn')) && $model->imageColumn = $file;
