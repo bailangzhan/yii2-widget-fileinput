@@ -40,7 +40,7 @@ $model->save();
 
 ## 注意
 
-你需要在params.php中配置`manks\FileInput::imageDomainConfigParam`，或者在`manks\FileInput::clientOptions`中配置固定参数`imageServer`，该参数是图片服务器的域名，在修改model的时候正确的展示图片
+你需要在params.php中配置`bailangzhan\FileInput::imageDomainConfigParam`，或者在`bailangzhan\FileInput::clientOptions`中配置固定参数`imageServer`，该参数是图片服务器的域名，在修改model的时候正确的展示图片
 
 ## 许可
 
