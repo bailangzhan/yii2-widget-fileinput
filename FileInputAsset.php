@@ -1,6 +1,6 @@
 <?php
 
-namespace manks;
+namespace bailangzhan;
 
 use yii\web\AssetBundle;
 
