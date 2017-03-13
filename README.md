@@ -24,7 +24,7 @@ $ php composer.phar require bailangzhan/yii2-widget-fileinput "@dev"
 
 视图文件
 ```php
-<?= $form->field($model, 'imageColumn')->widget('manks\FileInput', [
+<?= $form->field($model, 'imageColumn')->widget('bailangzhan\FileInput', [
 	'clientOptions' => [
 		// 'imageServer' => '',
 	],
