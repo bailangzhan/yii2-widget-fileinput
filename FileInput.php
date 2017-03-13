@@ -1,6 +1,6 @@
 <?php
 
-namespace manks;
+namespace bailangzhan;
 
 use Yii;
 use yii\widgets\InputWidget;
